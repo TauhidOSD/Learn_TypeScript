@@ -17,7 +17,7 @@ const user = {
 
 }
 
-const {contact, name:{middleName }} = user
+const {contact, name:{middleName : midName }} = user // middleName : midName it means name Alias
 
 
 
