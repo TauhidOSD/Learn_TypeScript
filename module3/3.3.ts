@@ -1,6 +1,6 @@
 {
     //
- // type guard use ny typeof operator
+ // type guard use by typeof operator
 
  const add = (param1: string | number, param2: string | number) : 
  string | number =>{
