@@ -24,6 +24,7 @@
     
 
     const goribManusherAccount = new BankAccount(101, 'Tauhid', 20);
+    
     //call getter & setter
     goribManusherAccount.deposit =30
     const myBalace = goribManusherAccount.balance
